@@ -17,7 +17,8 @@ Hi guys!
   <img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;">
   <img align="center" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
   <!-- <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;"> -->
-</div
+</div>
+  
 ## GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dornelles08&show_icons=true&theme=react)
 
