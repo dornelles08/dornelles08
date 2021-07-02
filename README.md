@@ -1,7 +1,7 @@
 Hi guys!
 
 ## Connect with me:
-<div style="display: flex"> 
+<div style="display: flex; align-items: center;"> 
   <a href="https://www.linkedin.com/in/FelipeDornelles" target="_blank">
     <img align="center" alt="Felipe-Dornelles-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
