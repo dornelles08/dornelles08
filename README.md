@@ -18,11 +18,11 @@ Hi guys!
   <img align="center" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
   <!-- <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;"> -->
 </div>
-  
-## GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dornelles08&show_icons=true&theme=react)
 
-## Most commonly used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornelles08&layout=compact)](https://github.com/dornelles08/github-readme-stats)
+<div style="display: inline_block"><br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dornelles08&show_icons=true&theme=react)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornelles08&layout=compact)](https://github.com/dornelles08/github-readme-stats)
+</div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
