@@ -5,6 +5,8 @@ Hi guys!
 <img align="center" alt="Felipe-Dornelles-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
+<img src="https://img.shields.io/badge/Gmail-lipe.dornelles08%40gmail.com-blue">
+
 ## My skills are
 
 <div style="display: inline_block"><br>
@@ -28,5 +30,3 @@ Hi guys!
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://img.shields.io/badge/Gmail-lipe.dornelles08%40gmail.com-blue">
