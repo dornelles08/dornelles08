@@ -1,4 +1,4 @@
-Hi guys!
+Hi guys, I'm Felipe Dornelles!
 
 ## Connect with me:
 <div style="display: flex; align-items: center;"> 
