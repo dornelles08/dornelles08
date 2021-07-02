@@ -28,3 +28,5 @@ Hi guys!
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://img.shields.io/badge/Gmail-lipe.dornelles08%40gmail.com-blue">
