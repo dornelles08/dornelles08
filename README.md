@@ -5,9 +5,6 @@ Hi guys!
   <a href="https://www.linkedin.com/in/FelipeDornelles" target="_blank">
     <img align="center" alt="Felipe-Dornelles-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
-
-<img src="https://img.shields.io/badge/Gmail-lipe.dornelles08%40gmail.com-blue">
-
 </div>
 
 ## My skills are
