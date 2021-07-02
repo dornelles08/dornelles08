@@ -23,3 +23,4 @@ Hi guys!
 ## Most commonly used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornelles08&layout=compact)](https://github.com/dornelles08/github-readme-stats)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
