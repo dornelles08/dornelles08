@@ -1,5 +1,3 @@
-<!--### Hi there 👋
-
 Hi guys!
 
 ## Connect with me:
