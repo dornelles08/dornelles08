@@ -1,7 +1,8 @@
 Hi guys, I'm Felipe Dornelles!
 
-## Connect with me:
-<div style="display: flex; align-items: center;"> 
+## Connect with me
+
+<div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/FelipeDornelles" target="_blank">
     <img align="center" alt="Felipe-Dornelles-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
@@ -18,9 +19,15 @@ Hi guys, I'm Felipe Dornelles!
   <img align="center" alt="postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;">  
 </div>
 
+## Certifications
+
+<div style="display: inline_block"><br>
+  <a href="https://www.credly.com/badges/fa392adb-a57d-4ba9-bfd0-46f1434ddef7/public_url" target="_blanck">
+    <img align="center" alt="aws-accreditation-technical" height="80" width="80" src="https://images.credly.com/size/340x340/images/429455ef-4a2b-4520-954e-8dd15c817b27/PartnerAccreditation-Technical.png" style="max-width:100%;">
+  </a>
+</div>
 
 ##
-
 
 <div>
   <a href="https://github.com/dornelles08">
