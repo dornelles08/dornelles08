@@ -22,8 +22,9 @@ Hi guys, I'm Felipe Dornelles!
 ## Certifications
 
 <div style="display: inline_block"><br>
+  
   <a href="https://www.credly.com/badges/fa392adb-a57d-4ba9-bfd0-46f1434ddef7/public_url" target="_blanck">
-    <img align="center" alt="aws-accreditation-technical" height="100" width="100" src="https://images.credly.com/size/340x340/images/429455ef-4a2b-4520-954e-8dd15c817b27/PartnerAccreditation-Technical.png" style="max-width:100%;">
+    <img align="center" alt="aws-accreditation-technical" height="100" width="100" src="[https://images.credly.com/size/340x340/images/429455ef-4a2b-4520-954e-8dd15c817b27/PartnerAccreditation-Technical.png](https://images.credly.com/size/340x340/images/429455ef-4a2b-4520-954e-8dd15c817b27/PartnerAccreditation-Technical.png)" style="max-width:100%;">
   </a>
 </div>
 
