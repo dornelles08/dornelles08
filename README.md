@@ -40,9 +40,9 @@ Hi guys, I'm Felipe Dornelles!
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dornelles08&layout=compact&langs_count=16&theme=onedark" alt="dornelles08"/>
+        <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dornelles08&layout=compact&langs_count=16&theme=onedark" alt="dornelles08"/>
 <!--         <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=dornelles08&theme=onedark" alt="dornelles08" /> -->
-        <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=dornelles08&show_icons=true&locale=en&theme=onedark" alt="dornelles08" />
+        <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=dornelles08&show_icons=true&locale=en&theme=onedark" alt="dornelles08" />
     </span>
 </p>
 
